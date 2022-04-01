@@ -13,8 +13,7 @@
         "module"
     ],
     "license": "MIT",
-    "makefile": "Makefile",
-    "install": "cmake . && make && make install",
+    "install": "echo OK",
     "dependencies": {
     }
 }
