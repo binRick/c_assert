@@ -1,0 +1,20 @@
+{
+    "name": "c_assert",
+    "version": "0.0.1",
+    "repo": "binRick/c_assert",
+    "description": "C Assertion",
+    "files": [
+        "assertf.h",
+        "test.c"
+    ],
+    "keywords": [
+        "c",
+        "assert",
+        "module"
+    ],
+    "license": "MIT",
+    "makefile": "Makefile",
+    "install": "cmake . && make && make install",
+    "dependencies": {
+    }
+}
